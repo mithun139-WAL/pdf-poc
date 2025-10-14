@@ -13,6 +13,7 @@
     "axios": "^1.11.0",
     "canvas": "^3.2.0",
     "dotenv": "^17.2.1",
+    "exceljs": "^4.4.0",
     "pdf-lib": "^1.17.1",
     "pdf-parse": "^1.1.1",
     "pdfjs-dist": "^3.11.174",
